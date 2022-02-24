@@ -1,2 +1,1 @@
-# Re-sight-cle
-Re-sight-cle is an application that allows users to manage waste by analyzing images to categorize types of waste to plan waste management accordingly. 
+This is the repository for the CS 691 Pace University Spring 2022 Capstone Project. The Team Members working on this Project are <li>Aakansha Agarwala</li><li>Austin Blaise</li><li>Nicholas Wong</li><li>Rajat Nagavkar</li><li>Suryadeep Nallana</li>
