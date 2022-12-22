@@ -1,4 +1,4 @@
-This is the repository for the CS 691 Pace University Spring 2022 Capstone Project. The Team Members working on this Project are <li>Aakansha Agarwala</li><li>Austin Blaise</li><li>Nicholas Wong</li><li>Rajat Nagavkar</li><li>Suryadeep Nallana</li>
+This is the repository for the CS 691 and CS692 Pace University Capstone Project. The Team Members working on this Project are <li>Aakansha Agarwala</li><li>Austin Blaise</li><li>Nicholas Wong</li><li>Rajat Nagavkar</li><li>Suryadeep Nallana</li>
 # Squander File Structure
 Our application is structured as follows:
 <table style="width:100%; border: 1px solid black">
