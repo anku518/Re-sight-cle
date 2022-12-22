@@ -14,4 +14,16 @@ Our application is structured as follows:
     <td>TeamPhotos</td>
     <td>This folder contains the photos of each team member that are used on the project Wiki page.</td>
   </tr>
+  <tr>
+    <td>AWS</td>
+    <td>This folder contains the AWS Cloud Load Balancer used for our Squander Application</td>
+  </tr>
+  <tr>
+    <td>Model</td>
+    <td>This folder contains our machine learning model of Squander Application</td>
+  </tr>
+  <tr>
+    <td>.github/workflows</td>
+    <td>This folder contains CICD Pipeline of Squander Application</td>
+  </tr>
  </table>
