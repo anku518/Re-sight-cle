@@ -1,0 +1,6 @@
+framework module Pods_Squanderr_SquanderrUITests {
+  umbrella header "Pods-Squanderr-SquanderrUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
