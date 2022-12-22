@@ -26,4 +26,8 @@ Our application is structured as follows:
     <td>.github/workflows</td>
     <td>This folder contains CICD Pipeline of Squander Application</td>
   </tr>
+  <tr>
+    <td>iOS Code/Squanderr</td>
+    <td>This folder contains Source Code of the Squander Application</td>
+  </tr>
  </table>
