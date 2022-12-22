@@ -1,2 +1,4 @@
 tensorflow==2.4.1
 Python==3.10.1
+Xcode==13.3.1
+iOS==15.4.1
