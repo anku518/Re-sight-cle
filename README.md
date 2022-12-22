@@ -22,4 +22,8 @@ Our application is structured as follows:
     <td>Model</td>
     <td>This folder contains our machine learning model of Squander Application</td>
   </tr>
+  <tr>
+    <td>.github/workflows</td>
+    <td>This folder contains CICD Pipeline of Squander Application</td>
+  </tr>
  </table>
